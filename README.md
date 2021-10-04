@@ -7,7 +7,7 @@ This is a simple Javascript game which has been coded using the 2D physics engin
 - Classes and objects
 - Mathematical operations
 - creating slingshot
-- detecting time of user and changing background accordngly
+- detecting time of user and changing background accordingly
 
 ## About the game
 Angry Birds is a 2009 casual puzzle video game developed by Rovio Entertainment. Inspired primarily by a sketch of stylized wingless birds, the game was first released for iOS and Maemo devices starting in December 2009. 
